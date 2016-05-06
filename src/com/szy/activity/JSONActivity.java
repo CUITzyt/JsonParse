@@ -12,6 +12,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+/**
+ * @author OscarChang
+ *
+ */
 public class JSONActivity extends Activity {
 	private Button button1;
 	private Button button2;
